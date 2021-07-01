@@ -3,7 +3,7 @@
 # Summary of Report
 For the full report please see Probability Estimation; [The Advantage over Bookmakers pdf.](https://github.com/JaW02/The-Advantage-Over-Bookmakers/blob/main/Probability%20Estimation%3B%20The%20Advantage%20over%20Bookmakers.pdf)
 
-For the project notebook please see football_match_estimation.ipynb.
+For the project notebook please see [football_match_estimation.ipynb.](https://github.com/JaW02/The-Advantage-Over-Bookmakers/blob/main/football_match_estimation.ipynb)
 
 For the cross platform conda environment to run the notebook please see xp_environment.yml
 
