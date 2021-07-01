@@ -1,7 +1,7 @@
 # Probability-Estimation
 # The-Advantage-Over-Bookmakers
 # Summary of Report
-For the full report please see Probability Estimation; [The Advantage over Bookmakers pdf.](JaW02/The-Advantage-Over-Bookmakers/Probability Estimation; The Advantage over Bookmakers.pdf)
+For the full report please see Probability Estimation; [The Advantage over Bookmakers pdf.](https://github.com/JaW02/The-Advantage-Over-Bookmakers/blob/main/Probability%20Estimation%3B%20The%20Advantage%20over%20Bookmakers.pdf)
 
 For the project notebook please see football_match_estimation.ipynb.
 
