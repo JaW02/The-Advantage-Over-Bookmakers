@@ -5,6 +5,8 @@ For the full report please see Probability Estimation; The Advantage over Bookma
 
 For the project notebook please see football_match_estimation.ipynb.
 
+For the conda environment to run the notebook please see xp_environment.yml
+
 ## Introduction
 When it comes to football betting there can be a lot of money to be made, bookmakers each year make hundreds of thousands if not millions on the public betting on football games. With that being said bookmakers use probability to gain advantage over the football games being bet on and this then reflects on the odds that the public get, what if we could gain some advantage back over the bookmakers. With the digital era that we are in there is no shortage of statistics being recorded for these football matches, so being able to gather and leverage this data is becoming easier and if we can estimate the probabilities for the home teams and away teams winning from the data gathered, we can stand a greater chance of gaining an advantage over the bookmakers.
 
